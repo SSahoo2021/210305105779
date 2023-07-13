@@ -1,4 +1,4 @@
-sconst express = require('express');
+const express = require('express');
 const axios = require('axios');
 const app = express();
 const port = "http:/20.244.56.144/numbers/primes&url";
